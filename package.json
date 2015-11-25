@@ -1,5 +1,5 @@
 {
-  "name": "epochtalk-example",
+  "name": "epochtalk-example-plugin",
   "version": "1.0.0",
   "description": "an in-house plugin for epochtalk",
   "main": "index.js",
